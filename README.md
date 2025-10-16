@@ -1,6 +1,6 @@
 ## Analysis code for Tinamidae song phenology study
 
-Submitted to Ibis
+Submitted
 
 #### Scripts
 s1_import_ind_species.r
